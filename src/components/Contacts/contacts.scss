@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration:none;
+    list-style:none;
+}
+
+.contacts{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+    width: 400px;
+    margin: 100px auto;
+    background-color: #F5C6EC;
+    min-height: 450px;
+    border-radius: 10px;
+}
